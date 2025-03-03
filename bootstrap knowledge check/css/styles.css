@@ -1,0 +1,39 @@
+@media screen and (max-width: 300px) {
+    .navbar-brand {
+        font-size: 10vw;
+    }
+}
+/*    body {
+        max-width: 290px;
+        height: auto;
+    }
+
+    .banner {
+        max-width: 290px;
+        height: auto;
+    }
+
+    .circle-img {
+        max-width: 80px;
+        height: auto;
+    }
+
+    .myoyin-reg {
+        max-width: 290px;
+        height: auto;    
+    }
+
+    .upcoming-workshops {
+        max-width: 290px;
+        height: auto;    }
+
+    .container-fluid {
+        max-width: 290px;
+        height: auto;    }
+
+    .navbar a {
+        max-width: 290px;
+        height: auto;    }
+}
+
+*/
